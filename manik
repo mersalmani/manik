@@ -1,0 +1,9 @@
+#include<studio.h>
+#include<conio.h>
+void main()
+{
+char[20];
+clrscr();
+printf("hello mani");
+scanf("%s",ch);
+}
